@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="1024" viewBox="0 0 240 1024">
+  <!-- Glyph: : (U+003A) | UPM: 1024 | Ascender: 768 | Descender: -256 -->
+  <!-- Proportional Advance Width: 240 | Circular Dots (diameter=86, centered at x=120, vertical center y=416) -->
+  <path d="M 120 227 C 143.75 227, 163 246.25, 163 270 C 163 293.75, 143.75 313, 120 313 C 96.25 313, 77 293.75, 77 270 C 77 246.25, 96.25 227, 120 227 Z M 120 519 C 143.75 519, 163 538.25, 163 562 C 163 585.75, 143.75 605, 120 605 C 96.25 605, 77 585.75, 77 562 C 77 538.25, 96.25 519, 120 519 Z" fill="#000000" fill-rule="nonzero" />
+</svg>

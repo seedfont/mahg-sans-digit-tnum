@@ -1,1 +1,0 @@
-<link href="https://seedfont.github.io/mahg-sans-digit-tnum/dist/<font-weight>/<font-display>.css" rel="stylesheet">

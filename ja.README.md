@@ -46,10 +46,10 @@
 ### HTML 読み込み例 (jsDelivr CDN を利用する場合)
 
 ```html
-<link rel="stylesheet" href="https://jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/seedfont/mahg-sans-digit-tnum@main/dist/400/swap.css">
 
 <!-- Bold (700) を追加する場合 -->
-<link rel="stylesheet" href="https://jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/seedfont/mahg-sans-digit-tnum@main/dist/700/swap.css">
 ```
 
 ### CSS 指定例

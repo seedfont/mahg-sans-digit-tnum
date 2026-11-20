@@ -46,17 +46,17 @@ Load the desired stylesheet from `/dist/` in your HTML `<head>` and apply `mahg-
 ### HTML Example (via jsDelivr CDN)
 
 ```html
-<link rel="stylesheet" href="https://jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/seedfont/mahg-sans-digit-tnum@main/dist/400/swap.css">
 
 <!-- To include Bold (700) -->
-<link rel="stylesheet" href="https://jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/seedfont/mahg-sans-digit-tnum@main/dist/700/swap.css">
 ```
 
 ### CSS Example
 
 ```css
 body {
-  font-family: "mahg-sans-digit", "Noto Sans JP", sans-serif;
+  font-family: "mahg-sans-digit", sans-serif;
 }
 ```
 

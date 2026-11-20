@@ -56,7 +56,7 @@
 
 ```css
 body {
-  font-family: "mahg-sans-digit", "Noto Sans JP", sans-serif;
+  font-family: "mahg-sans-digit", sans-serif;
 }
 ```
 
